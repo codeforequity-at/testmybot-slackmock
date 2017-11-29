@@ -1,12 +1,12 @@
 {
   "name": "testmybot-slackmock",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "node": ">=4.0"
   },
   "scripts": {
     "newpatch": "npm version patch && npm publish"
-  },  
+  },
   "description": "Continuous Testing for your Chatbots - Slack Mocks",
   "main": "index.js",
   "author": "Florian Treml",
